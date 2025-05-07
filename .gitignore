@@ -1,4 +1,3 @@
 data/
 *.npy
-*.pickle
 .ipynb_checkpoints/
